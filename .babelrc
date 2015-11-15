@@ -1,0 +1,5 @@
+{
+  "only": ["*.jsx","*.js"],
+  "retainLines": true,
+  "plugins": ["transform-react-jsx"]
+}
